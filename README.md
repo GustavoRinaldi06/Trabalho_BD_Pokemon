@@ -4,3 +4,13 @@ Este trabalho consiste em um sistema de criação de times Pokémon, com uma fer
 
 Instruções para instalação:
 
+- Dentro da pasta "Pokemon" têm o código fonte do software.
+- Dentro da pasta "Gerar" tem o código de criação do banco de dados com os documentos necessários.
+- O código de python depende de 2 bibliotecas, a psycopg2, que conecta ao banco de dados, e o pokebase,
+  que é um wrapper para a api de onde saem as informações dos Pokémon para popular o banco de dados.
+- Também depende de informações de login de superusuário.
+- O código também irá criar um superusuário novo em seu banco de dados. A senha é bem previsível, então
+  tome cuidado.
+- O executável .jar compilado está em "Pokemon/dist".
+- Use java 17 ou mais recente.
+
