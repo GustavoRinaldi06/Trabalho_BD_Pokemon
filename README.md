@@ -1,8 +1,10 @@
-Introdução:
+# Pokedex e criador de equipes Pokemon.
+
+## Introdução:
 
 Este trabalho consiste em um sistema de criação de times Pokémon, com uma ferramenta de gerenciamento no estilo CRUD, além da busca por times públicos criados por outros usuários e acesso à Pokédex completa da primeira geração. Na Pokédex, é possível buscar os Pokémon e acessá-los para obter mais informações e visualizar suas imagens. Na tela de busca de times só serão vistos os times do tipo público, os quais não poderão ser modificados pelos demais usuários. Espero que se divirta ao criar e analizar times Pokémon!!
 
-Instruções para instalação:
+## Instruções para instalação:
 
 - Dentro da pasta "Pokemon" têm o código fonte do software.
 - Dentro da pasta "Gerar" tem o código de criação do banco de dados com os documentos necessários.
@@ -14,7 +16,7 @@ Instruções para instalação:
 - O executável .jar compilado está em "Pokemon/dist".
 - Use java 17 ou mais recente.
 
-Este projeto foi realizado com muito carinho pelos alunos da UnB:
+## Este projeto foi realizado com muito carinho pelos alunos da UnB:
 
 - Marina Silva Lyra
 - Gustavo Rinaldi Braga de Albuquerque
